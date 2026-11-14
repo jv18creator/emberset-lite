@@ -1,0 +1,62 @@
+[
+	{
+		"cam": 3.0,
+		"category": "fire",
+		"duration": 2.4,
+		"height": 0.9,
+		"lift": 0.0,
+		"look_z": 0.0,
+		"loop": true,
+		"move": false,
+		"name": "campfire",
+		"path": "res://addons/emberset/effects/fire/campfire.tscn"
+	},
+	{
+		"cam": 3.6,
+		"category": "impact",
+		"duration": 0.9,
+		"height": 0.9,
+		"lift": 0.9,
+		"look_z": 0.0,
+		"loop": false,
+		"move": false,
+		"name": "hit_spark",
+		"path": "res://addons/emberset/effects/impact/hit_spark.tscn"
+	},
+	{
+		"cam": 9.0,
+		"category": "lightning",
+		"duration": 1.55,
+		"height": 3.0,
+		"lift": 0.0,
+		"look_z": 0.0,
+		"loop": false,
+		"move": false,
+		"name": "lightning_strike",
+		"path": "res://addons/emberset/effects/lightning/lightning_strike.tscn"
+	},
+	{
+		"cam": 5.98,
+		"category": "loot",
+		"duration": 1.6,
+		"height": 1.428,
+		"lift": 0.0,
+		"look_z": 0.0,
+		"loop": true,
+		"move": false,
+		"name": "loot_beam_rare",
+		"path": "res://addons/emberset/effects/loot/loot_beam_rare.tscn"
+	},
+	{
+		"cam": 4.4,
+		"category": "portal",
+		"duration": 1.4,
+		"height": 1.3,
+		"lift": 0.0,
+		"look_z": 0.0,
+		"loop": true,
+		"move": false,
+		"name": "arcane_portal",
+		"path": "res://addons/emberset/effects/portal/arcane_portal.tscn"
+	}
+]
