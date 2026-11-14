@@ -5,8 +5,8 @@ Five drop-in 3D effect scenes for Godot 4.3+, MIT licensed: **campfire, hit spar
 Everything is procedural: a few shaders and five small noise textures. No sprite sheets, no plugin to enable, no autoload.
 Checked on Forward+, Mobile and Compatibility (web included).
 
-![Emberset effects](media/preview.gif)
-*The GIF shows effects from the full Emberset packs. This repository holds five of them.*
+![The five Emberset Lite effects: campfire, hit spark, arcane portal, rare loot beam, lightning strike](media/emberset-lite.webp)
+*Rendered in Godot 4.7.2 (Forward+). Left to right: campfire, hit spark, arcane portal, rare loot beam, lightning strike.*
 
 ## Install
 
